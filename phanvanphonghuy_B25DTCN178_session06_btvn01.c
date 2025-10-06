@@ -6,5 +6,5 @@ int main(){
     for(a=100; a>=1; a--){
             printf("%d \n", a);
         }
-    
+   return 0; 
 }
